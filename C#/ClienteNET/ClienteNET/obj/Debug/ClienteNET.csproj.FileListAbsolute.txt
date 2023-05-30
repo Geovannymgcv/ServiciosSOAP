@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\ClienteNET\ClienteNET\bin\Debug\ClienteNET.exe.config
+C:\Users\Usuario\source\repos\ClienteNET\ClienteNET\bin\Debug\ClienteNET.exe
+C:\Users\Usuario\source\repos\ClienteNET\ClienteNET\bin\Debug\ClienteNET.pdb
+C:\Users\Usuario\source\repos\ClienteNET\ClienteNET\obj\Debug\ClienteNET.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ClienteNET\ClienteNET\obj\Debug\ClienteNET.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ClienteNET\ClienteNET\obj\Debug\ClienteNET.exe
+C:\Users\Usuario\source\repos\ClienteNET\ClienteNET\obj\Debug\ClienteNET.pdb
